@@ -29,22 +29,22 @@ castnet/
 ├── .gitignore
 ├── README.md
 ├── setup/
-│ ├── install_os.md
-│ ├── enable_hailo.md
-│ └── wiring_guide.md
+│   ├── install_os.md
+│   ├── enable_hailo.md
+│   └── wiring_guide.md
 ├── sensors/
-│ ├── motion_pir.py
-│ └── distance_ultrasonic.py
+│   ├── motion_pir.py
+│   └── distance_ultrasonic.py
 ├── inference/
-│ ├── tflite_vehicle_person.py
-│ ├── labels.txt
-│ └── yolov8_hailo_stub.py
+│   ├── tflite_vehicle_person.py
+│   ├── labels.txt
+│   └── yolov8_hailo_stub.py
 ├── dashboard/
-│ └── app.py
+│   └── app.py
 ├── tests/
-│ └── dry_run_simulated_input.py
+│   └── dry_run_simulated_input.py
 └── logs/
-└── events.csv
+    └── events.csv
 
 ## Status
 
