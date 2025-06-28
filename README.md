@@ -46,6 +46,8 @@ castnet/
 └── logs/
     └── events.csv
 
+---
+
 ## Status
 
 This project is in development and serves as a portfolio demonstration of applied computer vision, edge AI, and real-time sensor integration. Contributions or ideas welcome.
