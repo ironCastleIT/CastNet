@@ -25,6 +25,7 @@
 ---
 
 ## Project Structure
+```
 castnet/
 ├── .gitignore
 ├── README.md
@@ -45,6 +46,7 @@ castnet/
 │   └── dry_run_simulated_input.py
 └── logs/
     └── events.csv
+```
 
 ---
 
